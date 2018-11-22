@@ -9,7 +9,7 @@ public class HelloWorld {
 	 */
 	public static void main(String[] args) {
 		
-		System.out.println("This is a Sample program For Git Integration");
+		System.out.println("This is a Sample program For Git Integration Test 2");
 
 	}
 
